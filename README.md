@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hello, everyone! 👋<br>💻  I am Data Analyst & Web Developer <br>🤝 Looking to collaborate with tech enthusiasts in related fields<br> 📈 Passionate about data analysis & AI <br>🛠️ Exploring tech specifics at my own pace <br>💬 Ask me about analytics, artificial intelligence, <br>      and web development<br>
+ Hello, everyone! 👋<br>💻  I am Data Analyst & Web Developer <br>🤝 Looking to collaborate with tech enthusiasts in related fields<br> 📈 Passionate about data analysis & AI <br>🛠️ Exploring tech specifics at my own space <br>💬 Ask me about analytics, artificial intelligence, <br>      and web development<br>
 
 
 ## 🌐 Socials:
